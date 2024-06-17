@@ -1,0 +1,42 @@
+[
+  {
+    "category": "front-end",
+    "name": "Landing Page",
+    "codeUrl": "https://github.com/Swadeshit27/Landing_page",
+    "demoUrl": "https://calendly-landing-page.vercel.app",
+    "details": "A landing page is a specialized web page designed to convert visitors into leads or customers. It highlights key information with a clean, engaging design, and features a compelling call-to-action. Its primary goal is to capture user interest and encourage them to take a specific action, such as signing up or visit our page",
+    "techTools": "React js, Vite Js, Tailwind CSS, Typescript, Responsive Design",
+    "imgUrl": "public/Projects/landing.png",
+    "isBest": false
+  },
+  {
+    "category": "front-end",
+    "name": "Home page UI",
+    "codeUrl": "https://github.com/Swadeshit27/Home_page_UI.git",
+    "demoUrl": "https://home-page-ui-seven.vercel.app/",
+    "details": "A Home page UI is a specialized web page designed to convert visitors into leads or customers. It highlights key information with a clean, engaging design, and smooth animation. Its primary goal is to capture user interest and encourage them to take a specific action, such as signing up or visit our page",
+    "techTools": "React js, vite js, Tailwind CSS, Typescript, Framer Motion",
+    "imgUrl": "public/Projects/home_page_UI.png",
+    "isBest": true
+  },
+  {
+    "category": "fullstack",
+    "name": "Email Authentication",
+    "codeUrl": "https://github.com/Swadeshit27/Email-Authentication",
+    "demoUrl": "https://email-authentication-nine.vercel.app",
+    "details": "Email authentication website uses email and password for user registration and login. Upon registration, users receive a verification link sent to their registered email. Clicking this link confirms their account, ensuring security and validity. This process protects user data and prevents unauthorized access.User have to upload their photo and choose interest while registering",
+    "techTools": "MERN stack, Tailwind CSS, Typescript, Nodemailer, cloudinary, formik-yup",
+    "imgUrl": "public/Projects/authencation.png",
+    "isBest": true
+  },
+  {
+    "category": "fullstack",
+    "name": "e-comerce website",
+    "codeUrl": "https://github.com/Swadeshit27/SWA-CART_ecommerce_website.git",
+    "demoUrl": "https://e-commerse-front-end.vercel.app",
+    "details": "E-commerce website facilitates online shopping by offering a wide range of products. Users can browse, search,filter, and purchase items securely. Features include product descriptions, reviews, a shopping cart, and secure payment options. Efficient navigation and personalized recommendations enhance the shopping experience, making it convenient and user-friendly.",
+    "techTools": "MERN stack, Tailwind CSS, redux-persist, redux toolkit, forkik - yup, razorpay",
+    "imgUrl": "public/Projects/ecommerce website.png",
+    "isBest": true
+  }
+]
